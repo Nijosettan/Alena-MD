@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = 'Owner Name'
-global.botname = 'Bot Name'
-global.caption = 'ғᴏʟʟᴏᴡ ᴍᴇ ɢɪᴛʜᴜʙ'
-global.footer = '© 𝙰𝙻𝙴𝙽𝙰 ™'
-global.ig = 'https://github.com/Afx-Abu'
+global.owner = ['919567979976']
+global.premium = ['919567979976']
+global.ownernomer = '919567979976'
+global.ownername = 'ᴍʀ.sᴍᴏᴋᴇʏ 😌❤️'
+global.botname = 'sᴍᴏᴋᴇʏ sᴇʀ 😌❤️'
+global.caption = 'ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɢɪᴛʜᴜʙ'
+global.footer = '© sᴍᴏᴋᴇʏ ™'
+global.ig = 'https://instagram.com/_mr__s_m_o_k_e_y_?igshid=YmMyMTA2M2Y='
 global.region = 'kerala'
-global.sc = 'https://github.com/Afx-Abu/Alena-MD'
-global.myweb = 'https://instagram.com/jsl._xr'
-global.packname = 'Alena'
+global.sc = 'https://instagram.com/_mr__s_m_o_k_e_y_?igshid=YmMyMTA2M2Y='
+global.myweb = 'https://instagram.com/_mr__s_m_o_k_e_y_?igshid=YmMyMTA2M2Y=
+global.packname = 'sᴍᴏᴋᴇʏ sᴇʀ'
 global.author = 'Jsl'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
